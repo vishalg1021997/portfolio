@@ -1,7 +1,9 @@
+// import photo from "../../logo/imdb.png"
+
 export const projects = [
 
 	{
-		img: 'https://i.ibb.co/bXb0d8F/image.png',
+		img: 'https://live.staticflickr.com/65535/52343822334_bcd1c6d6fc_b.jpg',
 		title: 'Clone of IMDB',
 		des: 'This is a clone of IMDB which is a websit where people can get reviews of and watch trailer and do ratings of various movies and webseries.',
 		live: 'https://imdbclone-masai.netlify.app/',
@@ -10,7 +12,7 @@ export const projects = [
 		technologies: ['JavaScript |','Redux |','React |','CSS |','HTML |','JSON Server |', 'Styled Components |', 'Material Ui'],
 	},
 	{
-		img: 'https://i.ibb.co/GpzvCn3/Indiamart.png',
+		img: 'https://live.staticflickr.com/65535/52343935840_6b3553e8aa_b.jpg',
 		title: 'Clone of Practo',
 		des: 'Practo is the Indias leading healthcare platform that connects millions of patients with hundreds of thousands of healthcare providers around the world and helps people make better healthcare decisions',
 		demo: '',
